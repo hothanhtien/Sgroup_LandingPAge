@@ -1984,7 +1984,8 @@ ul li.hidden1 {
     }
 
     .other {
-        margin-top: 50px;
+        margin-top: 20px;
+        height: 200px;
     }
 
     .containerStoryDetial {
@@ -2045,6 +2046,7 @@ ul li.hidden1 {
     }
     .Articles1 {
         width: 100%;
+        /* height: auto; */
     }
     .containerArticles1 {
         width: 100%;
@@ -2110,7 +2112,8 @@ ul li.hidden1 {
     }
 
     .other {
-        margin-top: 50px;
+        margin-top: 20px;
+        height: 200px;
     }
 
     .input__item {
@@ -2314,9 +2317,19 @@ ul li.hidden1 {
         margin-left: 30px;
     }
 
+    .footer__Item1 p{
+        display: none;
+    }
+
+    .footer__Item2 {
+        width: 100%;
+        justify-content: space-around;
+        margin: 0;
+    }
+
     .input__item  {
         /* width: 30px; */
-        height: 100px;
+        height: 300px;
     }
 
     .nameheaderContainerContent {
